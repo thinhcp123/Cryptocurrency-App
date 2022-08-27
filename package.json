@@ -11,6 +11,7 @@
     "antd": "^4.22.8",
     "axios": "^0.27.2",
     "chart.js": "^3.9.1",
+    "dotenv": "^16.0.1",
     "html-react-parser": "^3.0.4",
     "millify": "^5.0.0",
     "moment": "^2.29.4",
@@ -23,7 +24,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "react-scripts start ",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
